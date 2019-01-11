@@ -4,7 +4,6 @@ title: 双目直接法SLAM：stereo-LSD & stereo-DSO
 tags: SLAM 论文
 key: slam1
 category: 论文
-excerpt_type: html
 date: 2019-01-11 10:56:00
 modify_date: 2019-01-11 13:10:00
 ---
