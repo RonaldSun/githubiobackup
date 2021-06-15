@@ -71,3 +71,6 @@ modify_date: 2021-06-15 14:55:00
 ## debug
 - `gdb --ex=r --args python mm_benchmark.py`
 - `l` :显示代码 `p`: print
+
+## ros
+- 找pkg: https://answers.ros.org/question/288501/ros2-equivalent-of-rospackagegetpath/
